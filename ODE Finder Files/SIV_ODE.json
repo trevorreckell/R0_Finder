@@ -1,0 +1,17 @@
+[
+    {
+        "var": "S",
+        "eq": "Pi-beta*S*I/(S+I+V)-mu*S-psi*S+chi*gamma*I",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "beta*S*I/(S+I+V)+beta*delta*V*I/(S+I+V)-mu*I-gamma*I",
+        "human": 1
+    },
+    {
+        "var": "V",
+        "eq": "psi*S-beta*delta*V*I/(S+I+V)+(1-chi)*gamma*I-mu*V",
+        "human": 1
+    }
+]

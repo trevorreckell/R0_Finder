@@ -1,0 +1,27 @@
+[
+    {
+        "var": "Sh",
+        "eq": "Pi - beta_hv*Sh*Iv - mu_h*Sh",
+        "human": 1
+    },
+    {
+        "var": "Ih",
+        "eq": "beta_hv*Sh*Iv + delta*Ih - alpha*Ih - sigma*Ih - mu_h*Ih",
+        "human": 1
+    },
+    {
+        "var": "Rh",
+        "eq": "sigma*Ih - mu_h*Rh",
+        "human": 1
+    },
+    {
+        "var": "Sv",
+        "eq": "Lambda - beta_vh*Sv*Ih - mu_v*Sv",
+        "human": 0
+    },
+    {
+        "var": "Iv",
+        "eq": "beta_vh*Sv*Ih - mu_v*Iv",
+        "human": 0
+    }
+]

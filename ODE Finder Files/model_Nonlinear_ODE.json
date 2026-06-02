@@ -1,0 +1,22 @@
+[
+    {
+        "var": "S",
+        "eq": "mu - (beta*S*I)/(1 + alpha*I**2) - mu*S",
+        "human": 1
+    },
+    {
+        "var": "E",
+        "eq": "(beta*S*I)/(1 + alpha*I**2) - sigma*E - mu*E",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "sigma*E - gamma*I - mu*I",
+        "human": 1
+    },
+    {
+        "var": "R",
+        "eq": "gamma*I - mu*R",
+        "human": 1
+    }
+]

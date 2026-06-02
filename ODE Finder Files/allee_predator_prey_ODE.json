@@ -1,0 +1,12 @@
+[
+    {
+        "var": "N",
+        "eq": "r*N*(N/A - 1)*(1 - N/K) - alpha*N*P",
+        "human": 1
+    },
+    {
+        "var": "P",
+        "eq": "e*alpha*N*P - m*P",
+        "human": 0
+    }
+]

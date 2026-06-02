@@ -1,0 +1,27 @@
+[
+    {
+        "var": "S",
+        "eq": "mu*N - beta*S*I/N - mu*S",
+        "human": 1
+    },
+    {
+        "var": "E1",
+        "eq": "p*beta*S*I/N - v1*E1 - mu*E1",
+        "human": 1
+    },
+    {
+        "var": "E2",
+        "eq": "(1-p)*beta*S*I/N - v2*E2 - mu*E2",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "v1*E1 + v2*E2 - gamma*I - mu*I",
+        "human": 1
+    },
+    {
+        "var": "R",
+        "eq": "gamma*I - mu*R",
+        "human": 1
+    }
+]

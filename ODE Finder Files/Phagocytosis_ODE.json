@@ -1,0 +1,17 @@
+[
+    {
+        "var": "M",
+        "eq": "-k*M*B",
+        "human": 1
+    },
+    {
+        "var": "B",
+        "eq": "r*B-k*M*B",
+        "human": 0
+    },
+    {
+        "var": "M_i",
+        "eq": "k*M*B-delta*M_i",
+        "human": 1
+    }
+]

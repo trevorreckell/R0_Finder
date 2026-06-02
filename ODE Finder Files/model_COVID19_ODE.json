@@ -1,0 +1,32 @@
+[
+    {
+        "var": "S",
+        "eq": "-((beta_a*Ia + beta_s*Is + beta_h*Ih)/N)*S",
+        "human": 1
+    },
+    {
+        "var": "E",
+        "eq": "((beta_a*Ia + beta_s*Is + beta_h*Ih)/N)*S - sigma*E",
+        "human": 1
+    },
+    {
+        "var": "Ia",
+        "eq": "r*sigma*E - gamma_a*Ia",
+        "human": 1
+    },
+    {
+        "var": "Is",
+        "eq": "(1-r)*sigma*E - phi_s*Is- gamma_s*Is - delta_s*Is",
+        "human": 1
+    },
+    {
+        "var": "Ih",
+        "eq": "phi_s*Is - gamma_h*Ih - delta_h*Ih",
+        "human": 1
+    },
+    {
+        "var": "R",
+        "eq": "gamma_a*Ia + gamma_s*Is + gamma_h*Ih",
+        "human": 1
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "var": "T",
+        "eq": "s + p*V*T - k*V*T",
+        "human": 0
+    },
+    {
+        "var": "V",
+        "eq": "prod*T - clear*V",
+        "human": 0
+    }
+]

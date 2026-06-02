@@ -1,0 +1,17 @@
+[
+    {
+        "var": "S",
+        "eq": "-beta*S*I + delta*R",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "beta*S*I - gamma*I",
+        "human": 1
+    },
+    {
+        "var": "R",
+        "eq": "gamma*I - delta*R",
+        "human": 1
+    }
+]
