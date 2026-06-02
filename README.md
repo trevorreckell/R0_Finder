@@ -40,7 +40,7 @@ When you launch the program, the home screen allows you to select your starting 
 
 ### 1. Loading and Saving Models
 $R_0$ Finder allows you to save and load complete model architectures using `.json` files. 
-* To load a pre-built example, click the **Load** button and select a file from the `examples` folder.
+* To load a pre-built example, click the **Load** button and select a file from the `ODE Finder Files` folder.
 * **Important:** Saved models are specific to their workspace. A model saved from the ODE screen can only be loaded as an ODE model.
 
 ### 2. Building Models Manually
