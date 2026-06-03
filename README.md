@@ -1,6 +1,6 @@
 # $R_0$ Finder
 
-An interactive Python application designed to bridge the gap between continuous compartmental modeling (Ordinary Differential Equations) and stochastic network analysis (Petri Nets). The software automatically maps ODEs to Petri net topologies, resolves biological ambiguities via Abstract Syntax Tree (AST) parsing, and symbolically computes the basic reproduction number ($R_0$) and parameter elasticity indices directly from the network architecture.
+An interactive Python application designed to bridge the gap between continuous compartmental modeling (Ordinary Differential Equations) and stochastic network analysis (Petri Nets). The software automatically maps ODEs to Petri net topologies, resolves biological ambiguities via Abstract Syntax Tree (AST) parsing, and symbolically computes the basic reproduction number ($R_0$) and parameter elasticity indices directly from the network architecture. You can download zip files for operating system each under **Releases** area if it is easier than going through downloading in terminal.
 
 ## Cross-Platform Compatibility
 $R_0$ Finder is designed to run natively on **macOS**, **Windows**, and **Linux**. The graphical user interface is built using `tkinter`, which requires no external installation on Mac or Windows.
