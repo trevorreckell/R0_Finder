@@ -77,3 +77,20 @@ This project is open-source and released under the **BSD 3-Clause License**.
 ##  Citation
 If you use $R_0$ Finder in your research, please cite our corresponding methodology paper:
 > Reckell, T., Sterner, B., & Jevtić, P. (2026). $R_0$ Finder: An integrated tool for $R_0$ computation and ODE to Petri net model mapping. *PeerJ Computer Science* (Under Review).
+
+---
+
+### Important Note on Security Warnings
+Because R_0 Finder is a free, open-source academic tool, it is not signed with paid commercial developer certificates from Apple or Microsoft. Your operating system may flag the application the first time you open it. This is completely normal. Here is how to bypass the warnings:
+
+For macOS Users:
+1. Unzip the downloaded file.
+2. If you double-click the app, Mac will say the developer cannot be verified. Click Cancel.
+3. Instead, Right-Click (or Control-click) the R0_Finder app icon and select Open from the drop-down menu.
+4. A new warning will appear. Click the Open button to permanently whitelist the application.
+
+For Windows Users:
+1. Unzip the downloaded file.
+2. Double-click the R0_Finder.exe file.
+3. Microsoft Defender will display a blue screen saying "Windows protected your PC."Click More info (the underlined text).
+4. A new button will appear at the bottom. Click Run anyway.
