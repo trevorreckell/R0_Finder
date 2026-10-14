@@ -1,0 +1,27 @@
+[
+    {
+        "var": "S",
+        "eq": "-(S/N)*beta_t*I + gamma*R - xi_t*S + phi*V",
+        "human": 1
+    },
+    {
+        "var": "V",
+        "eq": "-(V/N)*sigma*beta_t*I + xi_t*S - phi*V",
+        "human": 1
+    },
+    {
+        "var": "E",
+        "eq": "beta_t*I*(S/N + sigma*V/N) - a*E",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "a*E - alpha*I - delta*I",
+        "human": 1
+    },
+    {
+        "var": "R",
+        "eq": "alpha*I - gamma*R",
+        "human": 1
+    }
+]

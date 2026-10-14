@@ -1,0 +1,17 @@
+[
+    {
+        "var": "S_h",
+        "eq": "-a*S_h*V + a*c*S_h*V",
+        "human": 1
+    },
+    {
+        "var": "I_h",
+        "eq": "a*S_h*V - a*c*S_h*V - gamma*I_h",
+        "human": 1
+    },
+    {
+        "var": "V",
+        "eq": "0",
+        "human": 0
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "var": "S",
+        "eq": "Pi - beta*S*I/N - mu*S",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "beta*S*I/N - (gamma + delta + mu + alpha)*I",
+        "human": 1
+    },
+    {
+        "var": "Q",
+        "eq": "delta*I - (epsilon + mu + alpha)*Q",
+        "human": 1
+    },
+    {
+        "var": "R",
+        "eq": "gamma*I + epsilon*Q - mu*R",
+        "human": 1
+    }
+]
