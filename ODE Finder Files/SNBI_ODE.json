@@ -1,0 +1,12 @@
+[
+    {
+        "var": "S",
+        "eq": "r*S*(1 - S/K) - (beta*S*I)/(1 + alpha*I)",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "(beta*S*I)/(1 + alpha*I) - gamma*I - (m*I**2)/(h**2 + I**2)",
+        "human": 1
+    }
+]

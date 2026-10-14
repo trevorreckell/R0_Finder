@@ -1,0 +1,17 @@
+[
+    {
+        "var": "S",
+        "eq": "q*mu*(S+I+R)-beta*S*I-mu*S",
+        "human": 1
+    },
+    {
+        "var": "I",
+        "eq": "beta*S*I-alpha*I-mu*I",
+        "human": 1
+    },
+    {
+        "var": "R",
+        "eq": "p*mu*(S+I+R)+alpha*I-mu*R",
+        "human": 1
+    }
+]
